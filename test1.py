@@ -4,3 +4,4 @@ yytu = "fsdfas"
 print("push test 1653")
 print(yytu)
 print("this msg can not be replace")
+print("123456")
